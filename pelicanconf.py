@@ -1,6 +1,6 @@
-AUTHOR = 'Raja CSP Raman'
-SITENAME = 'RajaCSP'
-SITETITLE = 'RajaCSP'
+AUTHOR = 'Kactii Editor'
+SITENAME = 'KactEditor'
+SITETITLE = 'KactEditor'
 SITEURL = ""
 PATH = "content"
 TIMEZONE = 'America/Moncton'
@@ -12,7 +12,7 @@ DISABLE_URL_HASH = True
 
 # Copyright
 COPYRIGHT_YEAR = 2026
-COPYRIGHT_NAME = 'Raja CSP Raman'
+COPYRIGHT_NAME = 'Kactii Editor'
 
 # Dark mode support
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
@@ -45,10 +45,10 @@ MENUITEMS = (
 
 # Social widget
 SOCIAL = (
-    ("github", "https://github.com/rajacsp"),
+    ("github", "https://github.com/kacteditor"),
     ("linkedin", "https://www.linkedin.com/in/raja-csp-raman/"),
     ("substack", "https://articlevil.substack.com/"),
-    ("python", "https://rajacsp.github.io/mlnotes/"),
+    ("python", "https://kacteditor.github.io/mlnotes/"),
 )
 
 DEFAULT_PAGINATION = 10

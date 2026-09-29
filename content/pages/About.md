@@ -7,7 +7,7 @@ This blog is about GenAI, LLMs, machine learning, Python, and tech education. I 
 
 # About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I'm **Kactii Editor** — an engineer, educator, author, and founder.
 
 From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
 
@@ -32,9 +32,9 @@ My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of In
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
-- [PyPI](https://pypi.org/user/rajacsp/)
-- [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
+- [GitHub](https://github.com/kacteditor)
+- [PyPI](https://pypi.org/user/kacteditor/)
+- [Google Scholar](https://scholar.google.com/citations?user=kacteditor)
 - [Kactii](https://app.kactii.com/c/raja)
 
 ## Outside of Tech

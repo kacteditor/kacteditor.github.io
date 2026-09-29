@@ -4,6 +4,9 @@ Category: Marketing
 Tags: Kactii, EdTech, Tamil Nadu, Learning Pods, Agentic AI
 Slug: kactii-education-pods
 Status: Published
+Cover: image/2026-09-29-kactii-education-pods/1790641232591-opt.jpg
+
+![1790641232591](image/2026-09-29-kactii-education-pods/1790641232591.png)
 
 ## The Problem Nobody Solves at 1 a.m.
 
