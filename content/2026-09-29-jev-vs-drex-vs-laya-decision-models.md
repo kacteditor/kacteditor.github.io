@@ -4,9 +4,10 @@ Category: AI Trends
 Tags: Jev, Drex, Laya, Decision Models, System 1 AI, LLM Inference, Agentic AI
 Slug: jev-vs-drex-vs-laya-decision-models
 Status: Published
-Cover: image/2026-12-31-jev-vs-drex-vs-laya-decision-models/1790643296002-opt.jpg
+Cover: image/2026-09-29-jev-vs-drex-vs-laya-decision-models/1790643296002-opt.jpg
 
-![1790643296002](image/2026-12-31-jev-vs-drex-vs-laya-decision-models/1790643296002.png)
+![1790643296002](image/2026-09-29-jev-vs-drex-vs-laya-decision-models/1790643296002.png)
+
 
 September 2026 brought a new kind of model into AI conversations. It does not chat, write essays, or generate code. It makes decisions. Jev, Laya, and Drex are the three names leading this new category, called decision models or "System 1" models, and they are changing how developers think about building agentic pipelines.
 
