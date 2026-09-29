@@ -1,12 +1,12 @@
 Title: Never Sleeping Pods: How Kactii Plans to Keep Tamil Nadu's Best Minds Learning — Around the Clock
-Date: 2026-09-29
+Date: 2026-09-28
 Category: Marketing
 Tags: Kactii, EdTech, Tamil Nadu, Learning Pods, Agentic AI
 Slug: kactii-education-pods
 Status: Published
-Cover: image/2026-09-29-kactii-education-pods/1790641232591-opt.jpg
+Cover: image/2026-09-28-kactii-education-pods/1790641232591-opt.jpg
 
-![1790641232591](image/2026-09-29-kactii-education-pods/1790641232591.png)
+![1790641232591](image/2026-09-28-kactii-education-pods/1790641232591.png)
 
 ## The Problem Nobody Solves at 1 a.m.
 

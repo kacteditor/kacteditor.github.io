@@ -23,7 +23,7 @@ PYGMENTS_STYLE = 'github'  # Light mode
 PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'image']
 SITELOGO = '/images/kacteditor.png'
 
 # Feed generation is usually not desired when developing
