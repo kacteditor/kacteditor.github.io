@@ -1,6 +1,6 @@
 AUTHOR = 'Kactii Editor'
-SITENAME = 'KactEditor'
-SITETITLE = 'KactEditor'
+SITENAME = 'Kactii Blog'
+SITETITLE = 'Kactii Blog'
 SITEURL = ""
 PATH = "content"
 TIMEZONE = 'America/Moncton'
@@ -24,7 +24,7 @@ PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
 STATIC_PATHS = ['images', 'image']
-SITELOGO = '/images/kacteditor.png'
+SITELOGO = '/images/kactiiblog.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
