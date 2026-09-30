@@ -4,6 +4,7 @@ Category: Education
 Tags: E4E, Education 4 Everyone, Kactii Academy, GenAI, DeepTech, SpaceTech, Robotics, Mission
 Slug: bju-derailed-from-their-mission-we-wont
 Status: Published
+Cover: image/2026-09-30-bju-derailed-from-their-mission-we-wont/1790739832994-opt.jpg
 
 ![1790739832994](image/2026-09-30-bju-derailed-from-their-mission-we-wont/1790739832994.png)
 
